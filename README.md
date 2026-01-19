@@ -1,6 +1,5 @@
 ## Hi there, I'm Nafis 👋
 
-
 ## Profile Stats
 
 <table>
