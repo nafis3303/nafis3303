@@ -1,7 +1,6 @@
-## Hi there 👋
-# Hola 👋, I'm Nafis
+## Hi there, I'm Nafis 👋
 
-### A non-passionate CS
+
 
 <br/>
 
